@@ -1,0 +1,18 @@
+body {
+    font-family: "Inter", serif; 
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.language-javascript {
+    font-family: "Source Code Pro", serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+footer {
+    background-color: #231161;
+    color: #C99700;
+    font-weight: bold;
+}
